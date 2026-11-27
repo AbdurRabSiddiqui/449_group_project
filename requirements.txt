@@ -1,0 +1,6 @@
+kesslergame==2.4.0
+scikit-fuzzy
+scipy
+networkx
+matplotlib
+numpy
